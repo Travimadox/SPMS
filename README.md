@@ -15,3 +15,14 @@
 - The SMSPS can be used to power consumer electronics such as smartphones, laptops, tablets etc.
 - They can also be used in renewable energy systems to convert AC power generated in solar inverters into usable DC      power for electronics.
 - It can alos be employed in networking equipments to provide power and maintain stable network connectivity.
+  
+## Customization
+This how we are going to customize the SMPS...
+
+## Cost
+SMPS cost less compared to traditional linear power supplies.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+© 2023 Nthuso Rampai, Phomolo Makina, and Loic Kibambo.
